@@ -25,10 +25,10 @@
 
 ##
   <div>
-    <a href="https://israelvipe.github.io/" target="blank"></a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=IsraelViPe.github.io" />
-    <a href="https://github.com/IsraelViPe/trybe-exercicios" target="blank"></a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=trybe-exercicios" />
+    <a href="https://israelvipe.github.io/" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=IsraelViPe.github.io" /></a>
+    <a href="https://github.com/IsraelViPe/trybe-exercicios" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=trybe-exercicios" /></a>
     </div>
   
   
