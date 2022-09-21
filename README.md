@@ -33,10 +33,10 @@
     
  ##
  
- <h4 align="center">Entre em contato:</h4>
+ <h4 align="center">Linkedin</h4>
  <div align="center">
   <a href="https://www.linkedin.com/in/israel-vin%C3%ADcius-pereira-558620232/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel" height="40" width="40"></a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel" height="50" width="50"></a>
  </div>
   
   
