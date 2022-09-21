@@ -30,6 +30,14 @@
     <a href="https://github.com/IsraelViPe/trybe-exercicios" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=trybe-exercicios" /></a>
     </div>
+    
+ ##
+ 
+ <h4 align="center">Entre em contato:</h4>
+ <div align="center">
+  <a href="https://www.linkedin.com/in/israel-vin%C3%ADcius-pereira-558620232/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel" height="40" width="40"></a>
+ </div>
   
   
   
