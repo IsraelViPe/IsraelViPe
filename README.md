@@ -5,7 +5,10 @@
 
 - Em transição de carreira cursando Desenvolvimento Web na Trybe
 - Atualmente estudando React 
+- Eu sou o cara que leva o violão e faz aquele mexido maravilhoso. 
+- if(dessert === true) israel.state_of_mind = happy 
 - Contate-me : pereira.israel2070@gmail.com
+ 
 
 ##
 
