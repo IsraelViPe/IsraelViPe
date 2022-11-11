@@ -27,12 +27,12 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
 
 ##
-  <div align="center">
+<!--   <div align="center">
     <a href="https://israelvipe.github.io/" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=IsraelViPe.github.io" />
     <a href="https://github.com/IsraelViPe/trybe-exercicios" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelViPe&theme=moltack&repo=trybe-exercicios" /></a>
-    </div>
+    </div> -->
     
  ##
  
