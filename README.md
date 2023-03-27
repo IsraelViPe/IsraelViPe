@@ -7,7 +7,7 @@
 
 - 📫 Me mande uma mensagem **pereira.israel2070@gmail.com**
 
-- ⚡ **if(dessert === true) israel.stat**
+- ⚡ **if(dessert === true) israel.happy()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
