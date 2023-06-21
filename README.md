@@ -1,5 +1,4 @@
 <h1 align="center">Olá eu sou, Israel Pereira</h1>
-<h3 align="center">Eu sou Factoring puro, novos inputs me facinam !!!</h3>
 
 - 🔭 Em transição de carreira **Cursando Desenvolvimento Web Full-Stack na Trybe**
 
